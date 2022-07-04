@@ -1,0 +1,11 @@
+#mode{
+    padding: 10px;
+    font-size: 16px;
+    background-color: rgba(128, 128, 128, 0.458);
+    border-radius: 100%;
+    cursor: pointer;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    transition: 2s;
+}
