@@ -2,8 +2,8 @@ function Group() {
 var value = document.getElementById('input').value;
 var text = document.getElementById('text');
  text.innerText = `${value}`
- var GR=value.substring(1,1);
- console.log(GR);
+ var GR=value.substring(2,3);
+ console.log(GR) 
 if(GR==1){
 text.style.color='yellow';
 }
