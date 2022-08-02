@@ -1,0 +1,14 @@
+.active-worning{
+    border: 3px solid red;
+}
+
+.active-success{
+    border: 3px solid green;
+}
+input{
+    outline: none;
+    font-size: 20px;
+}
+span{
+    color: red;
+}
