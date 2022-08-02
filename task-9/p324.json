@@ -1,0 +1,57 @@
+[
+    {
+      "id": 1,
+      "name": "Huseyn Aşurlu",
+      "age": 23,
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "position": "Team Lider",
+      "image": "https://scontent.fgyd4-3.fna.fbcdn.net/v/t39.30808-6/216673062_108533128174469_5435483772268153662_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=0xRxvIkX1-kAX-lYIjY&_nc_ht=scontent.fgyd4-3.fna&oh=00_AT9q8B5Y-pnqy3ndK3qvwn3XA0eSflEEjOWyy5AlmpHCEA&oe=62DCCFFA"
+     
+    },
+    {
+      "id": 2,
+      "name": "Çingiz Rəhimov",
+      "age": 25,
+      "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+      "position": "Xaladennik Ustasi",
+      "image": "https://scontent.fgyd4-3.fna.fbcdn.net/v/t39.30808-6/275113673_1155530668585327_995100715749131747_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=i6b5jbP6f0EAX-PzH8Z&_nc_ht=scontent.fgyd4-3.fna&oh=00_AT8phek13LOn9FJPkeoqHl0FEgH0I5Lg0LQEkywipeLRJQ&oe=62DD59E5"
+     
+    },
+    {
+      "id": 3,
+      "name": "Xelilbəy Xəlilbəyli",
+      "age": 37,
+      "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+      "position": "Full-Stake",
+      "image": "https://scontent.fgyd4-3.fna.fbcdn.net/v/t1.18169-9/11230672_975479405852176_7720780739252625803_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=174925&_nc_ohc=6escUEmcwsoAX86YNVO&_nc_ht=scontent.fgyd4-3.fna&oh=00_AT_lnhYh4GJcjzgi98kAT31EKVr0HMYlOxKWTocAvxD4vQ&oe=62FD9916"
+      
+    },
+    {
+      "id": 4,
+      "name": "Rəvana Piri",
+      "age": 27,
+      "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+      "position": "Front-End Developer",
+      "image": "https://scontent.fgyd4-2.fna.fbcdn.net/v/t39.30808-6/273879532_1689839848023516_3184223101610965694_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=174925&_nc_ohc=-49Ly9Ea48EAX-jK3qK&_nc_ht=scontent.fgyd4-2.fna&oh=00_AT9ohXbq23RFG52-v_tmalPzjka0TDcWOYgPrV8IZYx5_g&oe=62DD436B"
+      
+    },
+    {
+      "id": 5,
+      "name": "Seymur Azizoğlu",
+      "age": 25,
+      "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
+      "position": "Back-End Developer",
+      "image": "https://scontent.fgyd4-3.fna.fbcdn.net/v/t1.6435-9/165590188_2907029476214545_3629479942381517843_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=iwNWUJwSIp8AX_MqIN4&_nc_ht=scontent.fgyd4-3.fna&oh=00_AT_8av5MOqjUd8HsVFbM-0yFZ6_EWjYqV-yp7FkK6ZqdrQ&oe=62FE893A"
+     
+    },
+    {
+      "id": 6,
+      "name": "Oruc Mehrabov",
+      "age": 26,
+      "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
+      "position": "Driver",
+      "image": "https://scontent.fgyd4-3.fna.fbcdn.net/v/t39.30808-6/278906686_5069145526494912_1428924553017310011_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=174925&_nc_ohc=pWp9HVzFDTcAX9hRmLS&_nc_ht=scontent.fgyd4-3.fna&oh=00_AT-muiy3bvglFzOUz9LfgPP_Yfd0AHWtikXnqQTrC9xtvg&oe=62DD6254"
+     
+    }
+   
+  ]
